@@ -1,4 +1,5 @@
 public class Human {
-    private String name;
-    private Integer age;
+    public String name;
+    public Integer age;
+    
 }
